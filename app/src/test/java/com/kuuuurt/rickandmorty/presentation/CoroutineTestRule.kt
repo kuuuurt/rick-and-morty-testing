@@ -8,7 +8,7 @@ import org.junit.rules.TestWatcher
 import org.junit.runner.Description
 
 /**
- * Copyright 2020, Plentina, All rights reserved.
+ * Copyright 2020, Kurt Renzo Acosta, All rights reserved.
  *
  * @author Kurt Renzo Acosta
  * @since 06/02/2020
