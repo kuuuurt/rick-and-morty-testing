@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="empty_characters">No characters found.</string>
+    <string name="empty_episodes">Seems like we can\'t find any episodes…</string>
+</resources>
